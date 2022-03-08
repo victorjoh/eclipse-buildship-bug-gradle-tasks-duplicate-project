@@ -1,0 +1,23 @@
+# Java
+.class
+.jar
+
+# Gradle
+.gradle/
+build/
+bin/
+!gradle-wrapper.jar
+
+# TestNG
+#test-output/
+
+# Gradle test output
+#test-output-gradle/
+
+# Eclipse
+.settings/
+.recommenders/
+.project
+.classpath
+
+.vscode

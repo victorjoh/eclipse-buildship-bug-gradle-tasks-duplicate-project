@@ -1,0 +1,11 @@
+plugins {
+    id 'application'
+}
+
+dependencies {
+    implementation 'my.company.a:project-a'
+}
+
+application {
+    mainClass = 'my.company.b.World'
+}
